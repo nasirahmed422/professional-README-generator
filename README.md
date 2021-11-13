@@ -18,6 +18,9 @@ The purpose of this project is to use node and the inquirer package to help gene
 
 ![image](https://user-images.githubusercontent.com/65471245/141377864-7854eefe-660e-4f25-976e-4396997271b7.png)
 
+## Video Demo
+https://drive.google.com/file/d/1BP-9wkwQiJUIAE9ueTCQJ14MkW3yEsOR/view?usp=sharing
+
 ## Contribution
 Made with ❤️ by Nasir Ahmed
 
